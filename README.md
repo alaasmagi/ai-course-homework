@@ -198,13 +198,6 @@ All algorithms are implemented **from scratch** without relying on high-level ML
 - Educational clarity over production efficiency
 - Minimal dependencies
 
-## Defense Presentations
-
-Several projects include defense presentation slides (linked in individual READMEs):
-- [EX01 - Search Algorithms](https://docs.google.com/presentation/d/1LLHqAwiHtb3kUajXVXnLnadFLqeH3Rv9Awebn9bnVcw/edit?usp=sharing)
-- [EX02 - Monte Carlo](https://docs.google.com/presentation/d/11NeFq6YwH5VXAWuGpyZxR0zS-nFsz0ahuftSIGlHaNc/edit?usp=sharing)
-- [EX07 - Q-Learning](https://docs.google.com/presentation/d/1UH9YgCLfn7jIDcAuElS37PdPPF7LeM6H/edit?usp=sharing&ouid=109200742404759735467&rtpof=true&sd=true)
-
 ## Further Reading
 
 Each project folder contains its own detailed README with:
