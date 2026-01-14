@@ -1,0 +1,21 @@
+ACTIONS = {
+    'U': (-1, 0),
+    'D': (1, 0),
+    'L': (0, -1),
+    'R': (0, 1)
+}
+
+ACTION_LIST = ['R', 'D', 'L', 'U']
+
+ALPHA = 0.1
+GAMMA = 0.9
+EPSILON = 1.0
+EPSILON_DECAY = 0.99995
+EPSILON_MIN = 0.01
+
+EPISODES = 50000
+MAX_STEPS = 100
+
+REWARD_GOAL = 100
+REWARD_TRAP = -100
+REWARD_STEP = -1
